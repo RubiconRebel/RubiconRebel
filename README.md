@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I’m currently studying at Regis University to complete my master's degree.
+I’m the Director of Information Security at Regis University.
 
-I have just one class to complete and plan to be finished by mid-March 2023.
 
-I created this Github account as a requirement for the final class I am taking but frankly, it has been a long time since I have done any coding and I'm starting to get out of my comfort zone.
-
-(Not that that is a bad thing.)
 
 
 <!--
